@@ -6,4 +6,4 @@ route = ""
 zone_id = ""
 
 [site]
-bucket = "docs"
+bucket = "./docs"
