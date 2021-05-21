@@ -17,6 +17,7 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '16.2.0'
+      - run: npm install -D
       - run: npm run build
       - name: Deploy docs & publish site
         uses: cloudflare/wrangler-action@1.3.0
