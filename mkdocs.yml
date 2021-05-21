@@ -1,0 +1,10 @@
+ite_name: Test docs
+site_description: 'A docs test'
+site_author: 'Michael Hausenblas'
+docs_dir: docs/
+repo_name: 'xyelz/study'
+repo_url: 'https://github.com/xyelz/study'
+nav:
+    - Home: index.md
+theme:
+  name: 'material'
