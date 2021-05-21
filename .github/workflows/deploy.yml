@@ -13,9 +13,7 @@ jobs:
     steps:
       - name: Checkout main
         uses: actions/checkout@v2
-      - name: Deploy docs
-        uses: mhausenblas/mkdocs-deploy-gh-pages@master
-      - name: Publish site
+      - name: Deploy docs & publish site
         uses: cloudflare/wrangler-action@1.3.0
         with:
           apiToken: ${{secrets.CF_API_TOKEN}}
