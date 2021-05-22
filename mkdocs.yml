@@ -8,7 +8,7 @@ nav:
   - Home: index.md
   - CCSP:
     - ./isc2/ccsp/index.md
-    - Page 1: ./isc2/ccsp/another.md
+    - Code of Ethics: ./isc2/ccsp/code-of-ethics.md
 theme:
   favicon: assets/images/favicon.png
   features:
@@ -36,3 +36,7 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.alukos.com
       name: Alukos on Discord
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 2
