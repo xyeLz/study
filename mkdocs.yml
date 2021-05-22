@@ -1,9 +1,10 @@
 site_name: AkStudy
-site_description: 'A place to learn all the stuff.'
-site_author: 'Alukos'
+site_description: A place to learn all the stuff.
+site_author: Alukos
 docs_dir: docs/
-# repo_name: 'xyelz/study'
-# repo_url: 'https://github.com/xyelz/study'
+repo_name: xyelz/study
+repo_url: https://github.com/xyelz/study
+edit_uri: ./edit/master
 nav:
   - Home: index.md
   - CCSP:
@@ -14,7 +15,6 @@ nav:
       - ./isc2/ccsp/index/standards.md
       - ./isc2/ccsp/index/terminology.md
     - Concepts:
-      - Audit Planning:
       - ./isc2/ccsp/concepts/auditing/index.md
 theme:
   favicon: assets/images/favicon.png
