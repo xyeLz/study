@@ -11,6 +11,7 @@ theme:
   favicon: assets/images/favicon.png
   features:
     - navigation.instant
+    - navigation.sections # Not sure I want this yet
     - navigation.tracking # Insiders only
     - navigation.tabs
     - navigation.top
