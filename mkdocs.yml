@@ -6,7 +6,8 @@ docs_dir: docs/
 # repo_url: 'https://github.com/xyelz/study'
 nav:
   - Home: index.md
-  - CCSP: ./isc2/ccsp/index.md
+  - CCSP:
+    - ./isc2/ccsp/index.md
     - Page 1: ./isc2/ccsp/another.md
 theme:
   favicon: assets/images/favicon.png
