@@ -9,6 +9,10 @@ nav:
   - CCSP:
     - ./isc2/ccsp/index.md
     - Code of Ethics: ./isc2/ccsp/code-of-ethics.md
+    - Index:
+      - ./isc2/ccsp/index/references.md
+      - ./isc2/ccsp/index/standards.md
+      - ./isc2/ccsp/index/terminology.md
 theme:
   favicon: assets/images/favicon.png
   features:
