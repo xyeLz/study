@@ -4,6 +4,7 @@ site_author: 'Alukos'
 docs_dir: docs/
 repo_name: 'xyelz/study'
 repo_url: 'https://github.com/xyelz/study'
+edit_uri:
 nav:
   - Home: index.md
 theme:
