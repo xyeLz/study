@@ -2,8 +2,8 @@ site_name: AkStudy
 site_description: 'A place to learn all the stuff.'
 site_author: 'Alukos'
 docs_dir: docs/
-repo_name: 'xyelz/study'
-repo_url: 'https://github.com/xyelz/study'
+# repo_name: 'xyelz/study'
+# repo_url: 'https://github.com/xyelz/study'
 nav:
   - Home: index.md
   - CCSP: ./isc2/ccsp/index.md
@@ -11,7 +11,7 @@ theme:
   favicon: assets/images/favicon.png
   features:
     - navigation.instant
-    - navigation.tracking
+    - navigation.tracking # Insiders only
     - navigation.tabs
     - navigation.top
   logo: assets/images/logo.svg
