@@ -12,7 +12,8 @@ nav:
     - Index:
       - ./isc2/ccsp/index/references.md
       - ./isc2/ccsp/index/standards.md
-      - ./isc2/ccsp/index/terminology.md
+      - Hellotest:
+        - ./isc2/ccsp/index.terminology.md
 theme:
   favicon: assets/images/favicon.png
   features:
