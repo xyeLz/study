@@ -7,9 +7,9 @@ repo_url: 'https://github.com/xyelz/study'
 nav:
   - Home: index.md
 theme:
-  name: 'material'
-  logo: assets/images/logo.svg
   favicon: assets/images/favicon.png
+  logo: assets/images/logo.svg
+  name: 'material'
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -23,3 +23,6 @@ theme:
         name: Switch to light mode
 extra:
   generator: false
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.alukos.com
