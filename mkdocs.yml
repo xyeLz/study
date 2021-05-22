@@ -15,8 +15,8 @@ nav:
       - ./isc2/ccsp/index.terminology.md
     - Concepts:
       - ./isc2/ccsp/concepts/auditing.md
-      - Hellotest: ./isc2/ccsp/index.terminology.md
-        - ./isc2/ccsp/index.terminology.md
+      - Hellotest: ./isc2/ccsp/index/terminology.md
+        - ./isc2/ccsp/index/terminology.md
 theme:
   favicon: assets/images/favicon.png
   features:
