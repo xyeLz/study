@@ -6,6 +6,11 @@ nav:
   - Home: index.md
 theme:
   favicon: assets/images/favicon.png
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.top
   logo: assets/images/logo.svg
   name: 'material'
   palette:
