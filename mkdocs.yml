@@ -2,8 +2,6 @@ site_name: AkStudy
 site_description: 'A place to learn all the stuff.'
 site_author: 'Alukos'
 docs_dir: docs/
-repo_name: 'xyelz/study'
-repo_url: 'https://github.com/xyelz/study'
 nav:
   - Home: index.md
 theme:
