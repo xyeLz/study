@@ -14,7 +14,7 @@ theme:
     - navigation.tracking # Insiders only
     - navigation.tabs
     - navigation.top
-  logo: assets/images/logo.svg
+  logo: assets/images/logo.png
   name: 'material'
   palette:
     - media: "(prefers-color-scheme: light)"
