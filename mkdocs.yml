@@ -7,9 +7,9 @@ repo_url: https://github.com/xyelz/study
 edit_uri: ./edit/main/docs
 nav:
   - Home: index.md
-  - (ISC)2:
+  - CCSP:
     - Code of Ethics: ./isc2/ccsp/code-of-ethics.md
-    - CCSP: ./isc2/ccsp/index.md
+    - Exam Outline: ./isc2/ccsp/index.md
     - Index:
       - ./isc2/ccsp/index/references.md
       - ./isc2/ccsp/index/standards.md
@@ -46,4 +46,4 @@ extra:
 markdown_extensions:
   - toc:
       permalink: true
-      toc_depth: 2
+      toc_depth: 3
