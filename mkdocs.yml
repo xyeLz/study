@@ -7,9 +7,9 @@ repo_url: https://github.com/xyelz/study
 edit_uri: ./edit/main/docs
 nav:
   - Home: index.md
-  - CCSP:
-    - ./isc2/ccsp/index.md
+  - (ISC)2:
     - Code of Ethics: ./isc2/ccsp/code-of-ethics.md
+    - CCSP: ./isc2/ccsp/index.md
     - Index:
       - ./isc2/ccsp/index/references.md
       - ./isc2/ccsp/index/standards.md
